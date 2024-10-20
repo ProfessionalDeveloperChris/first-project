@@ -2,13 +2,9 @@
 
 <p>First ever GitHub project</p>
 
-<h2>About-me</h2>
+<h2>About-Project</h2>
 
-<ul>
-  <li>Im 19</li>
-  <li>I was born in the US</li>
-  <li>I am Hispanic</li>
-</ul>
+<p> This is my first calculator project but it's not supposed to be a regular calculator...</p>
 
 <h2>Special-thanks</h2>
 
